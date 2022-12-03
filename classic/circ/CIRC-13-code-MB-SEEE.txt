@@ -1,0 +1,20 @@
+/*     ---------------------------------------------------------
+ *     |  Experimentation Kit for Arduino Example Code         |
+ *     |  CIRC-13 .: Vibration :. (Piezo Vibration Sensor)     |
+ *     |                 Making Better                         |
+ *     ---------------------------------------------------------
+ *
+ *  A simple program to stream the readings from the vibratin sensor to the
+ *  Arduino IDE's Serial monitor 
+ */
+ 
+ const int knockSensor = A0; // the piezo is connected to analog pin 0
+ 
+ void setup(){
+  Serial.begin(9600);  // Use the Serial Port
+ }
+ 
+ void loop(){
+   Serial.println(analogRead(knockSensor)); // Send the sensor reading
+   delay(50);                               // Delay 
+ }

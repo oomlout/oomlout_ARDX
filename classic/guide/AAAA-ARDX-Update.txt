@@ -1,0 +1,132 @@
+>>ARDX-EG-01.CDR -- Cover
+
+Updated cover image Image to be an UNO (all except SPAR)
+
+>>ARDX-EG-02.CDR -- Inside Cover
+
+>>ARDX-EG-03.CDR -- Contents
+
+>>ARDX-EG-04.CDR -- Assembly
+
+Updated Assembly Graphic to Include Rev3 Uno (ALL)
+
+>>ARDX-EG-05.CDR -- Installation
+
+Windows
+  >> Updated file name
+  >> Removed Duemilanove Instructions
+  
+Mac
+  >>Updated File Name
+  >>Removed Duemilanove Instructions
+
+>>ARDX-EG-06.CDR -- Programming Primer
+
+>>ARDX-EG-07.CDR -- Programming Primer
+
+>>ARDX-EG-08.CDR -- Electronics Primer
+
+>>ARDX-EG-09.CDR -- Electronics Primer
+
+>>ARDX-EG-10.CDR -- CIRC-01
+  Updated image to Rev 3 Arduino
+  Changed Upload instructions from: File > Upload to I/O Board  (ctrl+U) to File > Upload (ctrl+U)
+  
+>>ARDX-EG-11.CDR -- CIRC-01  
+
+>>ARDX-EG-12.CDR -- CIRC-02  
+  Updated image to Rev 3 Arduino
+  
+>>ARDX-EG-13.CDR -- CIRC-02  
+
+>>ARDX-EG-14.CDR -- CIRC-03
+  Updated image to Rev 3 Arduino
+  
+>>ARDX-EG-15.CDR -- CIRC-03  
+
+>>ARDX-EG-16.CDR -- CIRC-04
+  Updated image to Rev 3 Arduino
+  
+>>ARDX-EG-17.CDR -- CIRC-04  
+
+>>ARDX-EG-18.CDR -- CIRC-05
+  Updated image to Rev 3 Arduino
+  
+>>ARDX-EG-19.CDR -- CIRC-05  
+
+>>ARDX-EG-20.CDR -- CIRC-06
+  Updated image to Rev 3 Arduino
+  
+>>ARDX-EG-21.CDR -- CIRC-06  
+
+>>ARDX-EG-22.CDR -- CIRC-07
+  Updated image to Rev 3 Arduino
+  
+>>ARDX-EG-23.CDR -- CIRC-07  
+
+>>ARDX-EG-24.CDR -- CIRC-08
+  Updated image to Rev 3 Arduino
+  Analog Range Changed from: 0 to 1024 to 0 to 1023
+
+>>ARDX-EG-25.CDR -- CIRC-08  
+  Analog Range Changed from: 0 to 1024 to 0 to 1023
+  
+>>ARDX-EG-26.CDR -- CIRC-09
+  Updated image to Rev 3 Arduino  
+  
+>>ARDX-EG-27.CDR -- CIRC-09  
+
+>>ARDX-EG-28.CDR -- CIRC-10
+  Updated image to Rev 3 Arduino  
+  Fixed Serial Monitor Instructions
+
+>>ARDX-EG-29.CDR -- CIRC-10
+  Analog Range Changed from: 0 to 1024 to 0 to 1023 in code
+  
+>>ARDX-EG-30.CDR -- CIRC-11
+  Updated image to Rev 3 Arduino  
+  
+>>ARDX-EG-31.CDR -- CIRC-11  
+
+--VENDOR SPECIFIC
+
+>>ARDX-EG-32.CDR -- OOMLOUT/FLORIS - Back Cover
+
+>>ARDX-EG-32.CDR -- ADAF - CIRC-12
+  Updated image to Rev 3 Arduino  
+  fixed diodes in schematic (reversed)
+  
+>>ARDX-EG-32.CDR -- SPAR - CIRC-12
+  Updated image to Rev 3 Arduino    
+  
+>>ARDX-EG-32.CDR -- SOLA - CIRC-12
+  Updated image to Rev 3 Arduino  
+
+>>ARDX-EG-33.CDR -- ADAF - CIRC-12  
+
+>>ARDX-EG-33.CDR -- SPAR - CIRC-12  
+
+>>ARDX-EG-33.CDR -- SOLA - CIRC-12  
+
+>>ARDX-EG-34.CDR -- ADAF - CIRC-13
+  Updated image to Rev 3 Arduino  
+  
+>>ARDX-EG-34.CDR -- SPAR - CIRC-13
+  Updated image to Rev 3 Arduino    
+  
+>>ARDX-EG-35.CDR -- ADAF - CIRC-13
+  
+>>ARDX-EG-35.CDR -- SPAR - CIRC-13
+
+>>ARDX-EG-36.CDR -- ADAF - Back Cover
+  
+>>ARDX-EG-36.CDR -- SPAR - CIRC-14
+  Updated image to Rev 3 Arduino    
+  
+>>ARDX-EG-37.CDR -- SPAR - CIRC-14
+
+>>ARDX-EG-38.CDR -- SPAR - NOTES
+
+>>ARDX-EG-39.CDR -- SPAR - NOTES
+
+>>ARDX-EG-40.CDR -- SPAR - Back Cover
